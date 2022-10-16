@@ -1,0 +1,66 @@
+{
+  "name": "Edd Fox #15",
+  "symbol": "FOX",
+  "description": "A spinoff of Bobby Rabbits created by our very own Reuben",
+  "seller_fee_basis_points": 1000,
+  "image": "15.png",
+  "external_url": "https://www.bobbyrabbits.com/#/eddfox",
+  "edition": 15,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glass Teal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Craving"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Loopy"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "24 Carrot Purple Tank"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "15.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "X2RctZDqhso8DMyavFZusjShQyoBtm5Z31utghW2DJb",
+        "share": 25
+      },
+      {
+        "address": "2QPRHsnW2egdVVdbFqEER2VirJXPBWQGD3V87uB9bYh2",
+        "share": 50
+      },
+      {
+        "address": "HdG76asFRykV8fqpUR4aucQoaDYMd1V2xv9NqRE84AW6",
+        "share": 25
+      }
+    ]
+  }
+}

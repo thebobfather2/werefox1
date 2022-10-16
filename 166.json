@@ -1,0 +1,66 @@
+{
+  "name": "Edd Fox #166",
+  "symbol": "FOX",
+  "description": "A spinoff of Bobby Rabbits created by our very own Reuben",
+  "seller_fee_basis_points": 1000,
+  "image": "166.png",
+  "external_url": "https://www.bobbyrabbits.com/#/eddfox",
+  "edition": 166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Blend"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble Blower"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Original Edd"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Padfootie"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "HP Bandana"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "166.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "X2RctZDqhso8DMyavFZusjShQyoBtm5Z31utghW2DJb",
+        "share": 25
+      },
+      {
+        "address": "2QPRHsnW2egdVVdbFqEER2VirJXPBWQGD3V87uB9bYh2",
+        "share": 50
+      },
+      {
+        "address": "HdG76asFRykV8fqpUR4aucQoaDYMd1V2xv9NqRE84AW6",
+        "share": 25
+      }
+    ]
+  }
+}
